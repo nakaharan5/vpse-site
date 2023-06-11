@@ -58,3 +58,13 @@
     width: 120px;
     margin-right: 10%;
 }
+
+
+.sobre-projeto{
+    display: flex;
+    align-items: right;
+}
+
+.sobre-projeto img{
+    width: 30%;
+}
